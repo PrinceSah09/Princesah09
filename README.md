@@ -29,11 +29,9 @@
 <a href="https://twitter.com/Princesah009">
   <img alt="My Twitter account" width="44px" style="margin: 25px 25px 130px 130px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://t.me/Princesah09">
+<a href="https://t.me/Princesah009">
   <img alt="My Telegram account" width="44px" style="margin: 25px 25px 130px 130px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a> 
-  <a href="https://forum.xda-developers.com/m/ksauraj.11493659/">
-  <img alt="My XDA" width="44px" style="margin: 25px 25px 130px 130px;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/xdadevelopers.svg" />
-</a>
+  
 </p>
  
