@@ -9,8 +9,16 @@
 <a href="https://github.com/Princesah09">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Princesah09&theme=vision-friendly-dark&count_private=true&layout=compact&langs_count=8&hide_border=true" />
 </a>
+  
 </p>
+
 <p align = "left">
+  
+  ![LeetCode Stats](https://leetcard.jacoblin.cool/JacobLinCool?theme=wtf&font=Cute%20Font&ext=heatmap)
+ 
+<p align="center">
+<!--   <img align="center" src="[https://leetcard.jacoblin.cool/Princesah9?theme=unicorn](https://leetcard.jacoblin.cool/JacobLinCool?theme=wtf&font=Cute%20Font&ext=heatmap)"/> -->
+</p>
  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Princesah09&theme=high-contrast">
 </p>  
 
